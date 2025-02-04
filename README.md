@@ -1,12 +1,34 @@
 # Brief description of scripts
 
 ## Requirements
-## mousecontrol.py
-As described. controls mouse location with your index finger
+* python: 3.10
+* pytorch
+* scikit-learn
+* mediapipe (pip)
+
+## simplecursorcontrol.py
+Controls mouse location with your index finger.
 
 ```python
-python mousecontrol.py
+python simplecursorcontrol.py
 ```
-Enter a partial filename to search for relevant pdfs, before entering the full filename.
+## datacollect.py
+Collect data of your hand gestures. Hold down class number to keep collecting keypoint positions of hand in that class.
 
-Enter your author's name, and that's it.
+```python
+python datacollect.py
+```
+
+## datatrain.py
+Train data of your hand gestures. 
+
+```python
+python datatrain.py
+```
+
+## datalive.py
+Use saved model on live camera stream.
+
+```python
+python datalive.py
+```
