@@ -5,6 +5,9 @@
 * pytorch
 * scikit-learn
 * mediapipe (pip)
+* pyautogui
+* numpy
+* rerun (optional, for data visualisation)
 
 ## simplecursorcontrol.py
 Controls mouse location with your index finger.
