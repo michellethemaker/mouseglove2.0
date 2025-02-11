@@ -10,7 +10,13 @@
 * rerun (optional, for data visualisation)
 
 ## aerialmouse.py
-Controls mouse location with your index finger. Left click with extended thumb. Right click with same thumb motion, plus extended pinkie.
+* *Cursor location* with your index finger. 
+
+* *Left click* with extended thumb.
+
+* *Right click* with same thumb motion, plus extended pinkie.
+
+* *Scroll up/down* with index+middle fingers extending up/down
 
 To be added: extra hand gestures for additional macros
 
