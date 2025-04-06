@@ -1,3 +1,4 @@
+Quick month-long project so i can watch youtube in bed while my desktop stays across the room. No i refuse to use wireless keyboards/mice.
 # Brief description of scripts
 
 ## Requirements
